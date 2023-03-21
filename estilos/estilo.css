@@ -1,0 +1,22 @@
+html{
+    font-size: 16px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1{
+    color: blue;
+    font-style: oblique;
+    font-size: 75px;
+}
+
+p, li{
+    width: 500px;
+    border: 1px solid burlywood;
+}
+body{
+    width: 600px;
+    margin: 0 auto;
+    padding: 0 20px 20px 20px
+    background color: aqua
+    border: 5px solid black 
+}
